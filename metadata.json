@@ -1,0 +1,8 @@
+{
+    "max-instances": 1, 
+    "dangerous": false, 
+    "description": "SMBIOS thermal controls",
+    "uuid": "smbios-thermal@adamharvey.name", 
+    "name": "SMBIOS thermal controls",
+    "icon": "gnome-window-manager"
+}
